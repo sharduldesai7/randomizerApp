@@ -1,4 +1,4 @@
-# Randomizer Android Applicatio
+# Randomizer Android Application
 
 First Android app - Randomizer
 
